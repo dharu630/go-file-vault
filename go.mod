@@ -1,4 +1,4 @@
-module githb.com/dharmika_kanderi/secure-file-share
+module github.com/dharmika_kanderi/secure-file-share
 
 go 1.23.3
 
